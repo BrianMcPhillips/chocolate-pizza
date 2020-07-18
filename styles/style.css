@@ -136,7 +136,7 @@ h1 {
     justify-content: space-around;
     background-image: url(../images/list-bg.png);
     height: 305px;
-
+    width: 100%;
 }
 
 ul {
